@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Replaced mouse on machine #42",
       "attention": false,
-      "date": "04-09-2019",
-      "tech": "Barnabas LeRouche"
+      "tech": "Barnabas LeRouche",
+      "date": "2019-10-28T12:30:47.408Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Installed software on workstations 001-100",
-      "attention": false,
-      "date": "03-21-2019",
-      "tech": "Ira Garcia"
-    },
-    {
-      "id": 3,
-      "message": "Issue with mouse and keyboard at workstation 006",
+      "message": "Network issues at headquarters",
       "attention": true,
-      "date": "10-21-2019",
-      "tech": "Genevieve Estrella"
+      "tech": "Genevieve Estrella",
+      "date": "2019-10-28T12:31:04.639Z",
+      "id": 2
+    },
+    {
+      "message": "Replaced keyboard for machines #21 and #128",
+      "attention": false,
+      "tech": "Tristan Uva",
+      "date": "2019-10-28T12:31:30.464Z",
+      "id": 3
+    },
+    {
+      "message": "Website is down",
+      "attention": true,
+      "tech": "Ira Garcia",
+      "date": "2019-10-28T12:31:55.048Z",
+      "id": 4
     }
   ],
   "techs": [
