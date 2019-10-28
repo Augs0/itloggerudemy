@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Replaced mouse on machine #42",
       "attention": false,
       "tech": "Barnabas LeRouche",
-      "date": "2019-10-28T12:30:47.408Z",
-      "id": 1
+      "date": "2019-10-28T13:53:28.463Z"
     },
     {
       "message": "Network issues at headquarters",
